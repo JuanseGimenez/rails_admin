@@ -1,24 +1,5 @@
-# README
+# Rails Admin example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is one simple example of rails_admin gem for administration of your models.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails_Admin
